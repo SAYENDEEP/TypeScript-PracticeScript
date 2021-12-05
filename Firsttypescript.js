@@ -1,0 +1,10 @@
+var iNum = 15;
+var strName = 'Sayendeep';
+var bData = true;
+console.log("Number is" + iNum);
+console.log("String is" + strName);
+console.log("Boolen Data" + bData);
+var anyData1 = "Changed to text";
+console.log("Any data type now is:" + anyData1);
+var anyData2 = "Changed to text";
+console.log("Any data type now is:" + anyData2);
